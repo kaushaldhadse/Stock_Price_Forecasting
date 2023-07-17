@@ -1,6 +1,6 @@
 # Stock_Price_Prediction
 
-This project utilized the RandomForestRegressor model from Scikit-Learn module for stock price forecasting.
+This project utilized the RandomForestRegressor model from Scikit-Learn module for stock price forecasting for about 365 days (one year).
 
 The main goal was to predict the stock prices of a particular firm (hypothetial data used here) by training a machine learning model on it's past stock price data.
 
