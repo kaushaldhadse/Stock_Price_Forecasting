@@ -1,4 +1,4 @@
-# Stock_Price_Prediction
+# Stock_Price_Forecasting
 
 This project utilized the RandomForestRegressor model from Scikit-Learn module for stock price forecasting for about 365 days (one year).
 
