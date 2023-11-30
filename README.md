@@ -1,4 +1,4 @@
-# Apple Stock Price Time Series Analysis
+#Stock Price Forecasting
 
 This project utilized the RandomForestRegressor model from Scikit-Learn module for stock price forecasting for about 365 days (one year).
 
